@@ -4,7 +4,7 @@ This project aims to cluster European Union countries based on their Harmonized 
 
 ## Installation
 To run this project, you need to install the following packages:
-```
+```R
 install.packages("dplyr")
 install.packages("ggplot2")
 install.packages("eurostat")
@@ -12,7 +12,7 @@ install.packages("eurostat")
 
 
 After installation, you need to load the packages:
-```
+```R
 library("dplyr")
 library("ggplot2")
 library("eurostat")
